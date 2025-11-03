@@ -10,7 +10,7 @@ void fd1094_init_debugging(running_machine &machine, const char *cpureg, const c
 {
 }
 
-#if 0
+#if 01
 
 /***************************************************************************
 
